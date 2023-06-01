@@ -8,7 +8,7 @@ Think of operators as the action heroes of programming. They swing, leap, and ev
 
 Before we dive into this magical whirlpool, remember: with great power comes great responsibility. So, prepare to command these operators with wisdom and valor, or at least with a cup of coffee and a slice of pizza! Stay tuned for the upcoming action-packed performance from our brave Dart operators. Trust me; it'll be spellbinding!
 
-[Arithmetic](Operators%20e3d1d0124bb548c38777fff4c7cae352/Arithmetic%201d52f69ac17c41528d94bf77bc342471.md)
+[Arithmetic](Operator/Arithmetic.md)
 
 [Assignment](Operators%20e3d1d0124bb548c38777fff4c7cae352/Assignment%20498b184ab41e45e0962fbabcfb0882b4.md)
 
