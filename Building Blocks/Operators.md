@@ -10,12 +10,12 @@ Before we dive into this magical whirlpool, remember: with great power comes gre
 
 [Arithmetic](Operator/Arithmetic.md)
 
-[Assignment](Operators%20e3d1d0124bb548c38777fff4c7cae352/Assignment%20498b184ab41e45e0962fbabcfb0882b4.md)
+[Assignment](Operators/Assignment.md)
 
-[Bitwise](Operators%20e3d1d0124bb548c38777fff4c7cae352/Bitwise%2088930f7b1f37471eaef978c05115f3eb.md)
+[Bitwise](Operators/Bitwise.md)
 
-[Comparison](Operators%20e3d1d0124bb548c38777fff4c7cae352/Comparison%204df87e2b33c046afac1928e1a993db2a.md)
+[Comparison](Operators/Comparison.md)
 
-[Logical](Operators%20e3d1d0124bb548c38777fff4c7cae352/Logical%201ad1d97d51db4ea1877eafdb2eba6046.md)
+[Logical](Operators/Logical.md)
 
-[Type](Operators%20e3d1d0124bb548c38777fff4c7cae352/Type%20ae98346725804eed9a42b20f8bc24e32.md)
+[Type](Operators/Type.md)
