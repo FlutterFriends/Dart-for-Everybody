@@ -8,14 +8,14 @@ Think of operators as the action heroes of programming. They swing, leap, and ev
 
 Before we dive into this magical whirlpool, remember: with great power comes great responsibility. So, prepare to command these operators with wisdom and valor, or at least with a cup of coffee and a slice of pizza! Stay tuned for the upcoming action-packed performance from our brave Dart operators. Trust me; it'll be spellbinding!
 
-[Arithmetic](Operators/Arithmetic.md)
+[Arithmetic](/Operators/Arithmetic.md)
 
-[Assignment](Operators/Assignment.md)
+[Assignment](/Operators/Assignment.md)
 
-[Bitwise](Operators/Bitwise.md)
+[Bitwise](/Operators/Bitwise.md)
 
-[Comparison](Operators/Comparison.md)
+[Comparison](/Operators/Comparison.md)
 
-[Logical](Operators/Logical.md)
+[Logical](/Operators/Logical.md)
 
-[Type](Operators/Type.md)
+[Type](/Operators/Type.md)
