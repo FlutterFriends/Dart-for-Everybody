@@ -1,0 +1,9 @@
+# Supercharging Your Dart
+
+[Asynchronous Programming](Supercharging%20Your%20Dart%20e2a60e83574f475281a6a674e00a93b2/Asynchronous%20Programming%20b604c9dbd59e497ebecfa2377f337de1.md)
+
+[Regular Expressions](Supercharging%20Your%20Dart%20e2a60e83574f475281a6a674e00a93b2/Regular%20Expressions%20dcb63c3bfa4f4090847458dbdfc6731e.md)
+
+[Numeric Computing](Supercharging%20Your%20Dart%20e2a60e83574f475281a6a674e00a93b2/Numeric%20Computing%200ea41609aa674ed58f8d2877c1d5257c.md)
+
+[Organizing Your Code](Supercharging%20Your%20Dart%20e2a60e83574f475281a6a674e00a93b2/Organizing%20Your%20Code%205b32e5dbf88d4b5c940755b8c6136779.md)
