@@ -19,4 +19,4 @@ Think of extension methods as learning a new dance style to spice up your routin
 
 Allow specific values with:
 
-[Enumerated Types](Enumerated%20Types%207a51492f4c75405bbef3e8cbeff313ce.md)
+[Enumerated Types](extension_methods.md)

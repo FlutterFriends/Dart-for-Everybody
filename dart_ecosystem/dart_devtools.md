@@ -50,4 +50,4 @@ Exploring the Dart DevTools is like understanding your INS; it's a critical part
 
 With all of that practical knowledge in your mind, let’s talk about:
 
-[Philosophy of Code](../The%20Coder%E2%80%99s%20Path%20e1189ff4fde5433a8ba810ba159f9a3b/Philosophy%20of%20Code%2025a837e09d0e498d94f25700aeb9d066.md)
+[Philosophy of Code](../philosophy_of_code.md)

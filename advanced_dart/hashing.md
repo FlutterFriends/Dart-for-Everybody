@@ -55,4 +55,4 @@ Ah, the magical world of hashing in Dart! A delightful blend of uniqueness and e
 
 Define and identify new structures with:
 
-[Records, Patterns, and Pattern Matching](Records,%20Patterns,%20and%20Pattern%20Matching%200cfdbc8c138b478286c0705d6b7bbd0c.md)
+[Records, Patterns, and Pattern Matching](records_patterns_and_pattern_matching.md)

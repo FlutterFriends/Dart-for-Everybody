@@ -54,4 +54,4 @@ So, keep your wits about you, Secret Code Society members, and enjoy this journe
 
 Compute scientifically with:
 
-[Numeric Computing](Numeric%20Computing%200ea41609aa674ed58f8d2877c1d5257c.md)
+[Numeric Computing](numeric_computing.md)

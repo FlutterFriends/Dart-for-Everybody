@@ -152,4 +152,4 @@ Stay tuned for our next fun-filled chapter, and until then, code on amigos and a
 
 Let’s move on to:
 
-[Functions](Functions%20c2c648f9ec7049a5a04aa3ddf02b2d4a.md)
+[Functions](functions.md)

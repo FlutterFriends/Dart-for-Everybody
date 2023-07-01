@@ -76,4 +76,4 @@ This kind of traceback is incredibly useful in debugging because it tells you wh
 
 Next:
 
-[Cascade Notion Operator](Cascade%20Notion%20Operator%204562652b3c08473d807f0856981b6208.md)
+[Cascade Notion Operator](cascade_notion_operator.md)

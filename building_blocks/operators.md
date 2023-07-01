@@ -8,14 +8,14 @@ Think of operators as the action heroes of programming. They swing, leap, and ev
 
 Before we dive into this magical whirlpool, remember: with great power comes great responsibility. So, prepare to command these operators with wisdom and valor, or at least with a cup of coffee and a slice of pizza! Stay tuned for the upcoming action-packed performance from our brave Dart operators. Trust me; it'll be spellbinding!
 
-[Arithmetic](Operators%20e3d1d0124bb548c38777fff4c7cae352/Arithmetic%201d52f69ac17c41528d94bf77bc342471.md)
+[Arithmetic](operators/arithmetic.md)
 
-[Assignment](Operators%20e3d1d0124bb548c38777fff4c7cae352/Assignment%20498b184ab41e45e0962fbabcfb0882b4.md)
+[Assignment](operators/assignment.md)
 
-[Bitwise](Operators%20e3d1d0124bb548c38777fff4c7cae352/Bitwise%2088930f7b1f37471eaef978c05115f3eb.md)
+[Bitwise](operators/bitwise.md)
 
-[Comparison](Operators%20e3d1d0124bb548c38777fff4c7cae352/Comparison%204df87e2b33c046afac1928e1a993db2a.md)
+[Comparison](operators/comparison.md)
 
-[Logical](Operators%20e3d1d0124bb548c38777fff4c7cae352/Logical%201ad1d97d51db4ea1877eafdb2eba6046.md)
+[Logical](operators/logical.md)
 
-[Type](Operators%20e3d1d0124bb548c38777fff4c7cae352/Type%20ae98346725804eed9a42b20f8bc24e32.md)
+[Type](operators/type.md)

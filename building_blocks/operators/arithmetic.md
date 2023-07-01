@@ -50,4 +50,4 @@ Just like that, our mathemagicians are making wonders happen with your code. Now
 
 Next:
 
-[Assignment](Assignment%20498b184ab41e45e0962fbabcfb0882b4.md)
+[Assignment](assignment.md)

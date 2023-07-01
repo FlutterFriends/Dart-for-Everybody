@@ -36,4 +36,4 @@ And finally, let coding be a tool for change. Use it to solve problems, big and 
 
 With all that in mind, now is the best time to…
 
-[Practical Applications](../Practical%20Applications%204ed3e5efe9484be19fb3c690b6ab05fa.md)
+[Practical Applications](practical_applications.md)

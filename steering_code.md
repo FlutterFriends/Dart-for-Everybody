@@ -10,6 +10,6 @@ Then we have **Functions**, the magical spells of our programming world. These a
 
 So, step right up folks! Join us as we dive into the whirl of carnival rides and the realm of magical enchantments in steering our code with Flow Control and Functions. Grab your carnival tickets and magic wands, fellow programmers, for an unforgettable coding adventure awaits you!
 
-[Flow Control](Steering%20the%20Code%20e7d5b66254954bfabcfbde867bd3bf58/Flow%20Control%20a0b8c158bc4045b483b73d8ba49727d5.md)
+[Flow Control](steering_code/flow_control.md)
 
-[Functions](Steering%20the%20Code%20e7d5b66254954bfabcfbde867bd3bf58/Functions%20c2c648f9ec7049a5a04aa3ddf02b2d4a.md)
+[Functions](steering_code/functions.md)

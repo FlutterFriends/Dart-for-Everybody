@@ -31,4 +31,4 @@ It's like walking into a potions class, where the outcome can be as surprising a
 
 Extend your capabilities with:
 
-[Extension Methods](Extension%20Methods%206aa22071bc134116beea45c86632d05b.md)
+[Extension Methods](extension_methods.md)

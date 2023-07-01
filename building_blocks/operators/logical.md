@@ -31,4 +31,4 @@ With that, our show in the Boolean Ballroom concludes. Don your top hat, dust of
 
 Next:
 
-[Type](Type%20ae98346725804eed9a42b20f8bc24e32.md)
+[Type](type.md)

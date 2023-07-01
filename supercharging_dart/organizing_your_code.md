@@ -34,4 +34,4 @@ Happy travels and clean coding!
 
 Now, let’s move on to a descriptive landscape of
 
-[Object-Oriented Programming](../Object-Oriented%20Programming%20fb225d37f1ec4b108de465b9bd1e8a22.md)
+[Object-Oriented Programming](../object_oriented_programming.md)

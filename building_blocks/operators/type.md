@@ -25,4 +25,4 @@ So, as we pull into our next station, the Land of Control Flow, remember to keep
 
 Onward to the next section of the book:
 
-[Documentation](https://www.notion.so/Documentation-d1c06680c20f4ccfa963cd5ed96c447e)
+[Documentation](../documentation.md)

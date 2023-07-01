@@ -42,4 +42,4 @@ And with that, we conclude our magical journey through data structures. But reme
 
 More common data structures await us in:
 
-[Collections](Collections%2001c81adc5e1b45c09c1a83ce9be2c814.md)
+[Collections](collections.md)

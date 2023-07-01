@@ -69,4 +69,4 @@ Whether you're calculating the gravitational interaction of galaxies or plotting
 
 Remember to keep your workspace clean by:
 
-[Organizing Your Code](Organizing%20Your%20Code%205b32e5dbf88d4b5c940755b8c6136779.md)
+[Organizing Your Code](numeric_computing.md)

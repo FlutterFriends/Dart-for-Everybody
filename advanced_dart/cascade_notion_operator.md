@@ -36,4 +36,4 @@ That's the power of Dart's Cascade Notation Operator. It's all about performing 
 
 Take time for quiet contemplation in:
 
-[Isolates](Isolates%2080a36a7c214a48afbe39d9f7b0d103a8.md)
+[Isolates](isolates.md)

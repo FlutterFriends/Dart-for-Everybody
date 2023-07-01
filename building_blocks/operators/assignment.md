@@ -51,4 +51,4 @@ With these charmed Assignment Operators at your disposal, the magic of Dart is n
 
 Next:
 
-[Bitwise](Bitwise%2088930f7b1f37471eaef978c05115f3eb.md)
+[Bitwise](bitwise.md)

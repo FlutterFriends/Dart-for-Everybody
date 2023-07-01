@@ -20,4 +20,4 @@ And the cool part? Each planet (isolate) exists in its own corner of the galaxy,
 
 Be more meta with: 
 
-[Metaprogramming](Metaprogramming%20e0de45742b34402cb3af6bf2a610827c.md)
+[Metaprogramming](metaprogramming.md)

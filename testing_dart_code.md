@@ -92,4 +92,4 @@ Note: Testing is not just a technical task, it's a way of life! Well, at least f
 
 Now, work with real input by learning:
 
-[Data Management](Data%20Management%2016896fb8cd784d25b07ebf55adc43237.md)
+[Data Management](data_management.md)

@@ -52,4 +52,4 @@ There you have it, brave explorer! You've navigated the universe of Dart librari
 
 Next, learn about your coding companion:
 
-[Dart DevTools](Dart%20DevTools%20bdd98a6356d84289b29aefc178a69adc.md)
+[Dart DevTools](dart_devtools.md)

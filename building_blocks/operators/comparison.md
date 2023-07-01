@@ -52,4 +52,4 @@ And thus, we conclude our visit to the Court of Comparisons. Remember, in the co
 
 Next:
 
-[Logical](Logical%201ad1d97d51db4ea1877eafdb2eba6046.md)
+[Logical](logical.md)

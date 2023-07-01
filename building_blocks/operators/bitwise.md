@@ -48,4 +48,4 @@ With these bitwise operators, you can choreograph your own binary ballets, creat
 
 Next:
 
-[Comparison](Comparison%204df87e2b33c046afac1928e1a993db2a.md)
+[Comparison](comparison.md)

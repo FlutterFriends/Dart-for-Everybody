@@ -30,4 +30,4 @@ Remember, fellow space explorer, during your journey through the code cosmos, So
 
 Hash things out with:
 
-[Hashing](Hashing%20baec9832567c4dc2b2d5aaad1152c430.md)
+[Hashing](hashing.md)

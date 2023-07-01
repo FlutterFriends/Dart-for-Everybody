@@ -6,4 +6,4 @@ This chapter will be written soon…
 
 Onward to the next section:
 
-[Steering the Code](../Steering%20the%20Code%20e7d5b66254954bfabcfbde867bd3bf58.md)
+[Steering the Code](../steering_code.md)
