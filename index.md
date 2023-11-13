@@ -27,7 +27,3 @@ Coding isn't a lonely wizard locked in a tower; it's a magical feast at Hogwarts
 This book is like your very own Marauder's Map. It will guide you from the fundamental spells (think: Dart syntax, data types) through the dark forests of control flow and functions to the enchanting world of classes. By the end, you'll be creating magic with code, just like Dumbledore, but with fewer beard issues.
 
 So, are you ready to step onto platform 9 ¾ and board the Dart Express? There's a whole world of programming magic waiting to be discovered. Let the journey begin!
-
-Onward to:
-
-[Building Blocks](building_blocks.md)

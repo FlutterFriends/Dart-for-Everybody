@@ -49,7 +49,3 @@ This creates a new directory with the basic structure of a Dart package, includi
 Once you've polished your package and made it shine, you may want to share it with other Dart explorers. Publishing it to [pub.dev](https://pub.dev/) is like adding your newly forged star to the universe of Dart packages. But before doing so, make sure you've followed the [Dart package layout conventions](https://dart.dev/guides).
 
 There you have it, brave explorer! You've navigated the universe of Dart libraries and packages, discovered how to harness their power, and even learned to forge and share your own stars. Ready for the next leg of our Dart journey?
-
-Next, learn about your coding companion:
-
-[Dart DevTools](dart_devtools.md)

@@ -39,7 +39,3 @@ Understanding data structures is like having a magical map to navigate the encha
 Lastly, we have the elder dragons of the data structures world: trees and graphs. They might seem intimidating at first, but fear not! They're just a different kind of puzzle box. For those brave enough to venture into this advanced territory, there are many resources to guide you. Just remember, every master wizard started as an apprentice.
 
 And with that, we conclude our magical journey through data structures. But remember, every ending is also a new beginning. With your newfound knowledge, you're ready to conjure and command data structures in ways you never thought possible! Now, go forth and code!
-
-More common data structures await us in:
-
-[Collections](collections.md)

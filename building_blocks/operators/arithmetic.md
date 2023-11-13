@@ -47,7 +47,3 @@ int leftoverCandies = totalCandies % numberofKids; // 2 candies left after shari
 ```
 
 Just like that, our mathemagicians are making wonders happen with your code. Now, it's your turn. Grab those operators and start crafting your own spells. Remember, every great wizard starts with the basics!
-
-Next:
-
-[Assignment](assignment.md)

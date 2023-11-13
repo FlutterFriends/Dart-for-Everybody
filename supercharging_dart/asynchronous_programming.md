@@ -119,7 +119,3 @@ The code above models a café scenario where a barista is preparing drinks for a
 - An **`onDone`** callback that gets called when all orders have been completed. This function prints a message saying the barista has finished all the orders.
 
 This code provides a practical and relatable demonstration of asynchronous programming in Dart, showing how **`Future`**s and **`Stream`**s can be used to manage time-consuming tasks and sequences of events.
-
-Wow! We’ve covered the foundations. Let’s take a quick look at:
-
-[Regular Expressions](regular_expressions.md)

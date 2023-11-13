@@ -29,9 +29,3 @@ The engine room is filled with heavy-duty machinery, powering your spaceship, mu
 Finally, the ship's logbook is an essential tool to remember what each switch does or what each part of the ship is for. It's a lot like comments in your code. Proper commenting is like leaving a clean logbook for the next shift or even for future-you! Remember, the most confusing code is code that you wrote six months ago.
 
 Organizing your spaceship, much like organizing your code, is a vital part of being an interstellar explorer or a stellar programmer. Having a well-organized ship/codebase will make your journey more enjoyable and less of a stellar headache!
-
-Happy travels and clean coding!
-
-Now, let’s move on to a descriptive landscape of
-
-[Object-Oriented Programming](../object_oriented_programming.md)

@@ -150,7 +150,3 @@ Just like in Alice in Wonderland, things can get much more complex in the world 
 Just like that, at our Dart Programming Carnival, we ensure a fun and fair time for all! The use of collections like **`List`**, **`Map`**, **`Set`**, and **`Queue`** can provide a structured way to juggle data, akin to juggling colorful juggling balls at this grand carnival!
 
 In the land of Dart, Lists, Maps, and Sets are the kings and queens. They provide a multitude of options to store, access, and manipulate data. They're the powerful allies you want by your side as you embark on your programming journey. So keep practicing, and in no time, you'll become a data structure wizard! Remember, it's all just a bit of hocus-pocus with a dash of data.
-
-A powerful world will be unveiled in:
-
-[Supercharging Your Dart](../supercharging_dart.md)

@@ -49,7 +49,3 @@ bool greaterOrEqual = (10 >= 5); // True! 10, you stand tall, greater or equal t
 Now, you might be wondering why we swaddle our comparisons in parentheses like newborn babies. It's not just because they look cute that way (though they absolutely do)! Parentheses in programming help us establish a clear order of operations—ensuring our diligent judges make their proclamations at the right time, every time. So wrap those comparisons up snug and tight, for they have a big role to play in your Dart code!
 
 And thus, we conclude our visit to the Court of Comparisons. Remember, in the court of Dart Comparison Operators, truth and falsity are equally important. They're the yin and yang that keep the cosmos of your code balanced. Happy comparing!
-
-Next:
-
-[Logical](logical.md)
