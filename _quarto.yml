@@ -1,0 +1,60 @@
+project:
+  type: book
+
+book:
+  title: "Dart for Everybody"
+  author: "Brylie Christopher Oxley"
+  date: "11/13/2023"
+  chapters:
+    - index.md
+    - building_blocks.md
+    - building_blocks/variables_and_data_types.md
+    - building_blocks/operators.md
+    - building_blocks/operators/arithmetic.md
+    - building_blocks/operators/assignment.md
+    - building_blocks/operators/bitwise.md
+    - building_blocks/operators/comparison.md
+    - building_blocks/operators/logical.md
+    - building_blocks/operators/type.md
+    - building_blocks/documentation.md
+    - steering_code.md
+    - steering_code/flow_control.md
+    - steering_code/functions.md
+    - working_with_data.md
+    - working_with_data/data_structures.md
+    - working_with_data/collections.md
+    - supercharging_dart.md
+    - supercharging_dart/asynchronous_programming.md
+    - supercharging_dart/regular_expressions.md
+    - supercharging_dart/numeric_computing.md
+    - supercharging_dart/organizing_your_code.md
+    - object_oriented_programming.md
+    - advanced_dart.md
+    - advanced_dart/error_handling.md
+    - advanced_dart/cascade_notion_operator.md
+    - advanced_dart/isolates.md
+    - advanced_dart/metaprogramming.md
+    - advanced_dart/extension_methods.md
+    - advanced_dart/enumerated_types.md
+    - advanced_dart/sound_null_safety.md
+    - advanced_dart/hashing.md
+    - advanced_dart/records_patterns_and_pattern_matching.md
+    - advanced_dart/wrapping_up.md
+    - testing_dart_code.md
+    - data_management.md
+    - dart_ecosystem.md
+    - dart_ecosystem/packages_and_libraries.md
+    - dart_ecosystem/dart_devtools.md
+    - philosophy_of_code.md
+    - practical_applications.md
+
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

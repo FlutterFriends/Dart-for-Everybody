@@ -28,7 +28,3 @@ bool unexpectedSolo = !true; // False! Wait, we thought they were going to perfo
 Remember, our Boolean Ballroom depends on perfect timing. So, ensure that you have your conditions and Boolean values in the right order. A misstep in logic can lead to an entirely different dance!
 
 With that, our show in the Boolean Ballroom concludes. Don your top hat, dust off your tailcoat, and ready your Boolean dancers for the next performance in the Dart Disco!
-
-Next:
-
-[Type](type.md)

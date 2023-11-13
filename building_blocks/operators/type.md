@@ -21,8 +21,4 @@ print(aTrainTicket is! int); // True! Our ticket is no integer, it's a string!
 
 These conductors, **`is`** and **`is!`**, are here to keep our code on track, making sure that all variables are precisely what we expect them to be. Just remember, when in doubt, give a shout out to **`is`** and **`is!`**.
 
-So, as we pull into our next station, the Land of Control Flow, remember to keep your variables in check and your types in order! Happy coding!
-
-Onward to the next section of the book:
-
-[Documentation](../documentation.md)
+So, as we pull into our next station, the Land of Control Flow, remember to keep your variables in check and your types in order! 

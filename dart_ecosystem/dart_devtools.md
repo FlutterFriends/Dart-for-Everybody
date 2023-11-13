@@ -47,7 +47,3 @@ Let's get hands-on with Dart DevTools! You will learn how to steer your ship (co
 ```
 
 Exploring the Dart DevTools is like understanding your INS; it's a critical part of your journey. So, brave explorer, may your journey through the cosmos of Dart be bug-free and thrilling! Happy coding and safe interstellar travels!
-
-With all of that practical knowledge in your mind, let’s talk about:
-
-[Philosophy of Code](../philosophy_of_code.md)

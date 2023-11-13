@@ -83,7 +83,3 @@ late String lateToTheParty; // We'll assign this variable later
 ```
 
 So, that's your introductory crash course on Dart variables and data types. Remember, practice is key to mastering these concepts. So, start brewing your magic potions and casting your spells, and remember to have fun while you're at it!
-
-Next up:
-
-[Operators](operators.md)

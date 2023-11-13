@@ -64,7 +64,3 @@ his function creates a new function that can add any number to **`addBy`**.
 So, there you have it! In the enchanted land of Dart, functions aren't just ordinary lines of code. They are magical creatures, full of wonder and whimsy, ready to transform inputs into outputs, work magic anonymously, echo in eternity, and even control other functions. As you continue your journey, these magical creatures will be your most loyal companions, always ready to perform feats of code at your behest!
 
 Next up, we'll be delving into the realm of Dart's mythical beasts: the data structures. Stay tuned, brave adventurer!
-
-Let’s learn about:
-
-[Working With Data](../working_with_data.md)

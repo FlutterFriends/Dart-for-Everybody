@@ -89,7 +89,3 @@ And that's a wrap for unit testing! Just remember, these are your front-line sol
 [... to be continued ...]
 
 Note: Testing is not just a technical task, it's a way of life! Well, at least for us software engineers. And let's be honest, if you were the one on a spaceship built by your code, you'd want it tested to oblivion and back, right?
-
-Now, work with real input by learning:
-
-[Data Management](data_management.md)

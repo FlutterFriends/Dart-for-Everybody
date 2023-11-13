@@ -66,7 +66,3 @@ Just like how we discover unexpected patterns in the night sky, Dart's `Random` 
 ## For all humanity
 
 Whether you're calculating the gravitational interaction of galaxies or plotting the lifecycle of a star, Dart's numeric computing capabilities and the `dart:math` library are like your scientific calculators. Just remember, every time you crunch a number, you're playing a note in the grand symphony of the universe. So, don't just code. Compose! Create your cosmic concerto with Dart and uncover the hidden harmonies in the cosmos.
-
-Remember to keep your workspace clean by:
-
-[Organizing Your Code](numeric_computing.md)

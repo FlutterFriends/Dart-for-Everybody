@@ -149,7 +149,3 @@ switch (dartLevel) {
 Well folks, that was a fantastic journey through Dart's Flow Control Fiesta! Each of these attractions, from the **`if-else`** Labyrinth to the **`switch`** House of Mirrors, helps guide the story of our Dart code. So, practice hard, and remember - in the magical world of Dart, you're the ride operator!
 
 Stay tuned for our next fun-filled chapter, and until then, code on amigos and amigas!
-
-Let’s move on to:
-
-[Functions](functions.md)

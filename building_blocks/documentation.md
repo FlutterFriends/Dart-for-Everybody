@@ -4,6 +4,3 @@ The importance of comments and how to write good documentation for your code is 
 
 This chapter will be written soon…
 
-Onward to the next section:
-
-[Steering the Code](../steering_code.md)

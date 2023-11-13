@@ -45,7 +45,3 @@ result = firstNumber >> 2; // Result: 42 (Binary: 00101010)
 ```
 
 With these bitwise operators, you can choreograph your own binary ballets, creating more intricate patterns and magical performances within your Dart code. So, take the stage, and let the binary ballet begin!
-
-Next:
-
-[Comparison](comparison.md)

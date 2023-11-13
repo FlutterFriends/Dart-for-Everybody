@@ -48,7 +48,3 @@ candies %= 4; // You share with 3 friends, and you have 3 candies left
 ```
 
 With these charmed Assignment Operators at your disposal, the magic of Dart is now yours to command. Practice these incantations and make your own magic. Code on, wizards!
-
-Next:
-
-[Bitwise](bitwise.md)

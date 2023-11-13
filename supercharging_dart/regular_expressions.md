@@ -51,7 +51,3 @@ Because they don't like anything that *captures*!
 Ah, a little humor to brighten our cryptic journey! Remember, while regular expressions can appear baffling, they're nothing but a fun, coded treasure hunt. Each symbol, each character is part of the magic, forming patterns that unlock the mysteries of text.
 
 So, keep your wits about you, Secret Code Society members, and enjoy this journey of unraveling Dart's regular expressions. Onwards to the next treasure!
-
-Compute scientifically with:
-
-[Numeric Computing](numeric_computing.md)
