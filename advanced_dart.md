@@ -18,6 +18,6 @@ The following advanced topics will commonly be encountered in the first years of
 
 [Hashing](advanced_dart/hashing.md)
 
-[Records, Patterns, and Pattern Matching](advanced_dart/records_%20patterns_and_pattern_matching.md)
+[Records, Patterns, and Pattern Matching](advanced_dart/records_patterns_and_pattern_matching.md)
 
 [Wrapping Up](advanced_dart/wrapping_up.md)
